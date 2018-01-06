@@ -12,7 +12,6 @@ future: true
 paginate: 10
 excerpt_separator: <!--more-->
 
-url: https://mcguirev10.com
 title: Forty Years of Code
 name: Jon McGuire
 description: "A developer blog about C#, .NET, Azure, Unity games, and other topics"
